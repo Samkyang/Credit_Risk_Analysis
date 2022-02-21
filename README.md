@@ -23,7 +23,7 @@ Results:
 ### Easy Ensemble AdaBoost Classifier
 ![image](https://user-images.githubusercontent.com/92561003/155027099-c94f7efa-1aab-449c-8e5a-7b4014be8ea6.png)
 
-Summary:
+## Summary:
 Sensitivity is valued more than precision when it comes to banks issuing loans because it decreases the chance a customer will default on a loan. Each one of the methods had really low precision for high risk applicants and high precision for low risk applicants. Easy Ensemble AdaBoost Classifier had the highest precision when it came to high risk customers.
 Moving on to the next qualifier would be to look at the sensitivity. Easy Ensemble AdaBoost Classifier scored the highest again in both high and low risk categories followed by Balanced Random Forest Classifier.
 The final part to look at is the balanced accuracy score one which model to use. Easy Ensemble AdaBoost Classifier scored the highest again in this category so this is the one I would go with since it is the more accurate, precice and most sensitive.
